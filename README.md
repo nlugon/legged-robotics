@@ -29,7 +29,7 @@ This project focuses on planning the Center of Mass (CoM) trajectory for a biped
 
 
 ### Video
-[![Bipedal Locomotion Video]](biped-robot/atlas.gif)
+![Bipedal Locomotion Video](biped-robot/atlas.gif)
 
 ---
 
@@ -52,10 +52,10 @@ This project implements locomotion controllers for quadrupedal robots using:
 
 ### Video
 **Trot Gait at High Speed**
-[![Quadruped Locomotion Video]](quadruped-robot/quadruped.gif)
+![Quadruped Locomotion Video](quadruped-robot/quadruped.gif)
 
-**On YouTube**
-[![Bipedal Locomotion Demo]](https://www.youtube.com/watch?v=mAbwYRhE2rQ)
+
+[On YouTube](https://www.youtube.com/watch?v=mAbwYRhE2rQ)
 
 
 

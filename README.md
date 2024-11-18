@@ -51,7 +51,6 @@ This project implements locomotion controllers for quadrupedal robots using:
 
 
 ### Video
-**Trot Gait at High Speed**
 ![Quadruped Locomotion Video](quadruped-robot/quadruped.gif)
 
 
@@ -77,9 +76,3 @@ This project implements locomotion controllers for quadrupedal robots using:
    - Use `run_cpg.py` for CPG-based locomotion.
    - Use `run_sb3.py` for training policies with DRL.
 
----
-
-## Acknowledgments
-This repository builds on concepts and algorithms from research papers on legged locomotion. References are included in the project directories.
-
----
